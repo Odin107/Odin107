@@ -1,6 +1,8 @@
 # Odin Johansen
 
-**Computational physics · Scientific machine learning · Quantum computing**
+**Developer at Statistics Norway (SSB) · MSc in Physics, University of Oslo**
+
+Computational physics · Scientific machine learning · Quantum computing
 
 I explore the connection between physical models, numerical methods, and machine learning. My public projects cover neural PDE solvers, finite element methods, and quantum algorithms, alongside experiments in software and game development.
 
